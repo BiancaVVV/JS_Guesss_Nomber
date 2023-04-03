@@ -1,1 +1,1 @@
-# JS_Guesss_Nomber
+# JS_Guesss_Number
